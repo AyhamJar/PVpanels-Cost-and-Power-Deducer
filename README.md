@@ -1,5 +1,5 @@
 # PVpanels-Cost-and-Power-Deducer
-A python code where the user enters the Solar Panels specifications required for an area, and it will calculate the expected outcome of Cost and Power generated.<br> <br>
+A python code where the user enters the Solar Panels specifications required for an area, and it will calculate the expected outcome of Cost and Power generated in consideration of zero-shading effect of the panels.<br> <br>
 
 Run the file `PVcalculate.py` <br>
 -----
